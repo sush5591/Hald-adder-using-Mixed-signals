@@ -1,1 +1,1 @@
-# Hald-adder-using-Mixed-signals
+# Half-adder-using-Mixed-signals
