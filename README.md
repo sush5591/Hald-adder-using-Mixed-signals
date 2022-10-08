@@ -240,9 +240,9 @@ endmodule
 ![image](https://user-images.githubusercontent.com/114681343/194701698-6f1a2ece-0d7d-49a4-85cd-a23e5909cb33.PNG)
 
 ## Netlists
-![image](https://user-images.githubusercontent.com/114681343/194702288-14496619-74ad-4402-a94c-8888323e2a41.PNG)
+![image](https://user-images.githubusercontent.com/114681343/194703141-129152ec-44a7-4b6c-ae10-2a5cbcd6ef73.PNG)
 
-![image](https://user-images.githubusercontent.com/114681343/194702300-ce32cdf4-8b67-4392-acaa-26cda975edc4.PNG)
+![image](https://user-images.githubusercontent.com/114681343/194703154-64804649-1c7c-416e-b420-2ae3c623cf9f.PNG)
 ## NgSpice Plots
 ![image](https://user-images.githubusercontent.com/114681343/194702364-7ad3d2fc-e2ad-4e28-b5a6-5e0ee10610dc.PNG)
 ## Steps to run generate NgVeri Model
