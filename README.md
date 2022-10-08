@@ -258,8 +258,10 @@ endmodule
 10.	https://www.c2s.gov.in/
 
 ## References
-[1]	https://www.vsdiat.com.
-[2]	Book by R P Jain,  Modern Digital Electronics.
+[1] https://www.vsdiat.com.
+
+[2] Book by R P Jain,  Modern Digital Electronics.
+
 [3] https://github.com/Eyantra698Sumanto/XOR-XNOR-Gate/edit/main/README.md
 
 
