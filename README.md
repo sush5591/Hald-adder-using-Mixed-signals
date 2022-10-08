@@ -240,7 +240,7 @@ endmodule
 ![image](https://user-images.githubusercontent.com/114681343/194701698-6f1a2ece-0d7d-49a4-85cd-a23e5909cb33.PNG)
 
 ## Netlists
-![image](https://user-images.githubusercontent.com/114681343/194703141-129152ec-44a7-4b6c-ae10-2a5cbcd6ef73.PNG)
+![image](https://user-images.githubusercontent.com/114681343/194703223-b359d1e4-f424-49d7-b8d7-6fd918c83d62.PNG)
 
 ![image](https://user-images.githubusercontent.com/114681343/194703154-64804649-1c7c-416e-b420-2ae3c623cf9f.PNG)
 ## NgSpice Plots
