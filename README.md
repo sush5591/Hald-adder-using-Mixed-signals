@@ -286,8 +286,6 @@ endmodule
 
 [3] https://github.com/Eyantra698Sumanto/XOR-XNOR-Gate/edit/main/README.md
 
-
-
-
-
-
+## Links
+https://www.linkedin.com/in/sushant-sukhadeo-gawade-59b60a84/
+![image](https://github.com/user-attachments/assets/035a1cd1-0858-4a87-b932-1799cb4734f0)
